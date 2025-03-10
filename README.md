@@ -9,6 +9,8 @@
 
 - 🔭 We're currently working on [Royale High API](https://github.com/Xelvanta/Anndromeda-RoyaleAPI)
 
+- 🤝 I’m looking for help with [Royale High Trend Viewer](https://github.com/Xelvanta/Anndromeda-RHTrendViewer)
+
 - 👨‍💻 All of our projects are available at [https://github.com/Xelvanta](https://github.com/Xelvanta)
 
 - 📫 How to reach us **enquiry.information@proton.me**
