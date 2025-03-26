@@ -15,7 +15,7 @@
 
 - 📫 How to reach us **Xelvanta@proton.me**
 
-- 🚀 Anndromeda is our sister company
+- 🚀 Anndromeda is our sister company!
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
