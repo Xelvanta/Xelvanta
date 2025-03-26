@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of our projects are available at [https://github.com/Xelvanta](https://github.com/Xelvanta)
 
-- 📫 How to reach us **enquiry.information@proton.me**
+- 📫 How to reach us **Xelvanta@proton.me**
 
 - 🚀 Anndromeda is our sister company
 
