@@ -50,6 +50,11 @@ Anndromeda’s roots were unconventional—it began as an **indie initiative wit
 
 With Anndromeda, Xelvanta wasn’t just building technology—it was fostering a movement, empowering users and developers to **innovate without limits**.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/AnndromedaLogoCentered.png" width="200" />
+  <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/RHAPILogo.png" width="200" />
+</p>
+
 ---
 
 ## The Dawn of a New Era: Rebranding to Xelvanta  
