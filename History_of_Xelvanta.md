@@ -4,6 +4,7 @@
 In **2022**, a bold idea took shape—a vision to challenge the status quo of technology and redefine how innovation unfolds. From the very start, **Exela Group** was more than just another tech company; it was the brainchild of an ambitious entrepreneur determined to push boundaries and craft the future. Armed with passion and an unrelenting pursuit of excellence, the company set its sights on an audacious goal: to create cutting-edge products that would revolutionize the industry.
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/ExelaLogoConcept.png" width="200" />
   <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/ExelaLogoOld.png" width="200" />
   <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/ExelaLogoTWCenMT.png" width="200" />
 </p>
