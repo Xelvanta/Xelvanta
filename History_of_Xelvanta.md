@@ -59,7 +59,21 @@ Thus, in **Q4 2024**, **Xelvanta Group Systems** was born. The new name was more
 - **"Xel"**, derived from “Exela” and **“excellence”**, represented an **unwavering commitment to quality and progress**.
 - **"Vanta"**, inspired by **“avant-garde”**, symbolized **fearless innovation and boundary-breaking ideas**.
 
+To ensure everyone can pronounce **Xelvanta** correctly, here is the pronunciation of the name. You can listen to both the **male** and **female** pronunciations:
+<div align="center">
+  <audio controls>
+    <source src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/XelvantaPronunciationMale.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/XelvantaPronunciationFemale.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+The name is pronounced as **/sɛlˈvæn.tə/**, capturing the essence of both modern innovation and timeless excellence.
+
 With this transformation, Xelvanta adopted a **modern minimalist logo**, refining its **visual identity** to mirror its **technological sophistication and forward-thinking vision**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/XelvantaLogo2024.png" width="400" />
+</p>
 
 ---
 
