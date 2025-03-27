@@ -3,6 +3,10 @@
 ## The Birth of a Vision: Founding as Exela Group  
 In **2022**, a bold idea took shape—a vision to challenge the status quo of technology and redefine how innovation unfolds. From the very start, **Exela Group** was more than just another tech company; it was the brainchild of an ambitious entrepreneur determined to push boundaries and craft the future. Armed with passion and an unrelenting pursuit of excellence, the company set its sights on an audacious goal: to create cutting-edge products that would revolutionize the industry.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/ExelaLogoTWCenMT.png" alt="Exela Logo 2022">
+</p>
+
 The first tangible result of this vision was revealed on **May 29, 2022**—the **Exela Vista One**. This concept device wasn’t just another smartphone. It was a **statement**, a bold proclamation of Exela’s commitment to **design, performance, and forward-thinking technology**.
 
 ---
