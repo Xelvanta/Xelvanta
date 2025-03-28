@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Xelvanta/Xelvanta/blob/main/History_of_Xelvanta.md">Learn about the history of Xelvanta Group Systems</a>
+  <a href="https://github.com/Xelvanta/Xelvanta/blob/main/History_of_Xelvanta.md">🕰️ Learn about the history of Xelvanta Group Systems</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Xelvanta/Xelvanta/blob/main/About_the_Founder.md">👩‍💻 Learn about the founder of Xelvanta Group Systems</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xelvanta&label=Profile%20views&color=0e75b6&style=flat" alt="xelvanta" /> </p>
