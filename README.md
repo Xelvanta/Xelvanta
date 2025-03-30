@@ -21,7 +21,7 @@
 
 - 🔭 We're currently working on [Royale High API](https://github.com/Xelvanta/Anndromeda-RoyaleAPI)
 
-- 🤝 We're looking for help with [Royale High Trend Viewer](https://github.com/Xelvanta/Anndromeda-RHTrendViewer)
+- 🤝 We're looking for help with [Roblox Profile Manager](https://github.com/Xelvanta/roblox-profile-manager)
 
 - 👨‍💻 All of our projects are available at [https://github.com/Xelvanta](https://github.com/Xelvanta)
 
