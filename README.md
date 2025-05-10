@@ -21,7 +21,7 @@
 
 - 🔭 We're currently working on [Royale High API](https://github.com/Xelvanta/Anndromeda-RoyaleAPI)
 
-- 🤝 We're looking for help with [Roblox Profile Manager](https://github.com/Xelvanta/roblox-profile-manager)
+- 🤝 We're looking for help with [Roblox Profile Manager](https://github.com/Xelvanta/roblox-profile-manager) and [Roblox Custom Cursor](https://github.com/Xelvanta/roblox-custom-cursor)
 
 - 👨‍💻 All of our projects are available at [https://github.com/Xelvanta](https://github.com/Xelvanta)
 
