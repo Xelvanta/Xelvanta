@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Xelvanta/Xelvanta/blob/main/History_of_Xelvanta.md">🕰️ Learn about the history of Xelvanta Group Systems</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Xelvanta/Xelvanta/blob/main/About_the_Founder.md">👩‍💻 Learn about the founder of Xelvanta Group Systems</a>
+  🏳️‍🌈 Xelvanta proudly supports <a href="https://outintech.com" target="_blank" rel="noopener noreferrer">LGBTQQIP2SAA+ coders and developers</a> and celebrates diversity in tech this Pride Month.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xelvanta&label=Profile%20views&color=0e75b6&style=flat" alt="xelvanta" /> </p>
