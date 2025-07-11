@@ -5,10 +5,6 @@
   <img src="https://raw.githubusercontent.com/Xelvanta/Xelvanta/main/assets/XelvantaContibutionBanner.png" alt="Xelvanta Contribution Banner">
 </p>
 
-<p align="center">
-  🏳️‍🌈 Xelvanta proudly supports <a href="https://outintech.com" target="_blank" rel="noopener noreferrer">LGBTQQIP2SAA+ coders and developers</a> and celebrates diversity in tech this Pride Month.
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xelvanta&label=Profile%20views&color=0e75b6&style=flat" alt="xelvanta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xelvanta" alt="xelvanta" /></a> </p>
