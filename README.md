@@ -8,7 +8,7 @@
 > [!IMPORTANT]
 > ⚠️ **Official Website Notice**
 > 
-> A very recently registered domain (`xelvanta.com`) is appearing in Google search results and may cause confusion.  
+> A very recently registered domain (`xelvanta.com`) is appearing in Google search results and may cause confusion. This is **NOT** our website.  
 > Please note that **Xelvanta's official GitHub page** is [https://github.com/Xelvanta](https://github.com/Xelvanta), and we have been in operation for over a year. Always refer to our GitHub repos for accurate information.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xelvanta&label=Profile%20views&color=0e75b6&style=flat" alt="xelvanta" /> </p>
